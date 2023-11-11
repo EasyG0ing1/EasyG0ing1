@@ -1,4 +1,4 @@
-### IT has been my passion since I was very young. Solving problems and creating solutions is a reward in it of itself. 👋
+### IT has been my passion since I was very young. Solving problems and creating solutions is a reward in itself.
 
 <!--
 **EasyG0ing1/EasyG0ing1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
